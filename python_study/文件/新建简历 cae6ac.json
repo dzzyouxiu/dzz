@@ -1,0 +1,201 @@
+{
+  "title": "新建简历 cae6ac",
+  "basic": {
+    "name": "戴志远",
+    "title": "IT基础架构工程师",
+    "employementStatus": "在职",
+    "email": "dzzyouxiu@163.com",
+    "phone": "16687226169",
+    "location": "杭州市",
+    "birthDate": "2000/12",
+    "fieldOrder": [
+      {
+        "id": "1",
+        "key": "name",
+        "label": "姓名",
+        "type": "text",
+        "visible": true
+      },
+      {
+        "id": "2",
+        "key": "title",
+        "label": "职位",
+        "type": "text",
+        "visible": true
+      },
+      {
+        "id": "3",
+        "key": "employementStatus",
+        "label": "状态",
+        "type": "text",
+        "visible": true
+      },
+      {
+        "id": "4",
+        "key": "birthDate",
+        "label": "生日",
+        "type": "date",
+        "visible": true
+      },
+      {
+        "id": "5",
+        "key": "email",
+        "label": "邮箱",
+        "type": "text",
+        "visible": true
+      },
+      {
+        "id": "6",
+        "key": "phone",
+        "label": "电话",
+        "type": "text",
+        "visible": true
+      },
+      {
+        "id": "7",
+        "key": "location",
+        "label": "所在地",
+        "type": "text",
+        "visible": true
+      }
+    ],
+    "icons": {
+      "email": "Mail",
+      "phone": "Phone",
+      "birthDate": "CalendarRange",
+      "employementStatus": "Briefcase",
+      "location": "MapPin"
+    },
+    "photoConfig": {
+      "width": 90,
+      "height": 120,
+      "aspectRatio": "1:1",
+      "borderRadius": "none",
+      "customBorderRadius": 0,
+      "visible": false
+    },
+    "customFields": [
+      {
+        "id": "personal",
+        "label": "个人网站",
+        "value": "https://zhangsan.dev",
+        "icon": "Globe",
+        "visible": false
+      }
+    ],
+    "photo": "/avatar.png",
+    "githubKey": "",
+    "githubUseName": "",
+    "githubContributionsVisible": false,
+    "layout": "left"
+  },
+  "education": [
+    {
+      "id": "1",
+      "school": "大理大学",
+      "major": "信息安全",
+      "degree": "本科",
+      "startDate": "2018/09",
+      "endDate": "2022/07",
+      "visible": true,
+      "gpa": "",
+      "description": "<p></p><p></p>"
+    }
+  ],
+  "skillContent": "<ul><li><p>终端设备运维管理与用户支持（服务器、PC部署/维护/回收/平均解决率95%+）</p></li><li><p>办公系统运维（AD域控/Office 365/会议、门禁系统）</p></li><li><p>网络基础设施维护（交换机/防火墙/无线AP/综合布线）</p></li><li><p>企业IT基础架构规划与成本控制，实现年度采购成本降低18%+</p></li></ul>",
+  "selfEvaluationContent": "",
+  "experience": [
+    {
+      "id": "1",
+      "company": "爱士惟科技股份有限公司",
+      "position": "IT基础架构网络工程师",
+      "date": "2022/07 - 2025/05",
+      "visible": true,
+      "details": "<ul><li><p><strong>IT基础架构支持</strong>: 负责运维公司桌面系统，管理超千台设备的软硬件维护，确保0365、门禁、OA等关键办公软件的账号权限管理流畅。负责各类弱电施工，对接供应商，实现无感升级当前网络。</p></li><li><p><strong>设备维护与资产管理</strong>: 负责电脑、电视、打印机等IT设备的维护调试，管理各付费软件授权。改进资产管理流程，监管软硬件资源，与供应商紧密合作，实现成本节约与效率提升。</p></li><li><p><strong>网络与安全运维</strong>: 维护基础交换机、防火墙、无线AP等网络基础设施，设计并实施安全策略，防御潜在威胁，保持网络零中断运行，提升公司数据安全性与网络性能。</p></li><li><p><strong>机房与服务器运维</strong>: 主导服务器日常运维，包括超融合设备，Windows系统升级、安全补丁部署、维护与权限管理，保证服务器群组的高可用性和数据访问效率，支持业务连续性需求。</p></li><li><p><strong>信息安全方面</strong>: 参与公司信息安全策略的制定与执行，处置信息安全事件，降低风险暴露。</p></li></ul>"
+    },
+    {
+      "id": "92c27d2f-efec-46a9-a7be-b4bea0d9c9c1",
+      "company": "路明星光智能科技有限公司杭州分公司",
+      "position": "IT技术支持",
+      "date": "2025/11 - 至今",
+      "details": "<ul><li><p>Helpdesk桌面运维（打印机安装调试SOP维护，电脑使用问题支持，会议室支持等）</p></li><li><p>杭州IT资产管理（出入库与入离职管理及初始化，财务年终盘点100%，资产标签100%）</p></li><li><p>办公室网络运维（WiFi配置与维护，网络升级，宽带办理等）</p></li><li><p>杭州新办公室弱电事宜（弱电布线，网络及监控门禁设备，宽带运营商）</p></li></ul>",
+      "visible": true
+    }
+  ],
+  "draggingProjectId": null,
+  "projects": [
+    {
+      "id": "p1",
+      "name": "新办公室与实验室弱电施工",
+      "role": "",
+      "date": "",
+      "description": "<p><span style=\"color: rgb(0, 0, 0);\">负责新办公室与实验室弱电工程施工全流程管理，前期与供应商联合评估现场现状，制定弱电施工方案。主导网络布线、安防监控、门禁考勤、会议系统等子系统规划与设备选型，确定方案与多轮比价议价，实现综合降本，确保项目按期交付验收。</span></p><p></p>",
+      "visible": true
+    },
+    {
+      "id": "cf1e950d-d649-4dd0-90c9-e243a28bc894",
+      "name": "深信服超融合HCI",
+      "role": "",
+      "date": "",
+      "description": "<p><span style=\"color: rgb(0, 0, 0);\">负责深信服超融合平台（HCI）的部署与日常运维。完成集群节点上架、网络配置与初始化部署；实施虚拟机资源分配、存储策略优化及后台管理平台运维；建立定期巡检机制，实时监控运行状态，及时响应并处理告警，保障业务系统高可用运行。</span></p>",
+      "visible": true
+    }
+  ],
+  "menuSections": [
+    {
+      "id": "basic",
+      "title": "基本信息",
+      "icon": "👤",
+      "enabled": true,
+      "order": 0
+    },
+    {
+      "id": "education",
+      "title": "教育经历",
+      "icon": "🎓",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "skills",
+      "title": "个人总结",
+      "icon": "⚡",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "experience",
+      "title": "工作经历",
+      "icon": "💼",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "projects",
+      "title": "项目经验",
+      "icon": "🚀",
+      "enabled": true,
+      "order": 4
+    }
+  ],
+  "certificates": [],
+  "customData": {},
+  "activeSection": "basic",
+  "globalSettings": {
+    "baseFontSize": 16,
+    "pagePadding": 32,
+    "paragraphSpacing": 12,
+    "lineHeight": 1.2,
+    "sectionSpacing": 16,
+    "headerSize": 18,
+    "subheaderSize": 16,
+    "useIconMode": true,
+    "themeColor": "#0047AB",
+    "centerSubtitle": true,
+    "autoOnePage": true
+  },
+  "id": "cae6ac5a-1b6b-451e-b660-74f78f52fead",
+  "createdAt": "2026-05-08T03:39:58.769Z",
+  "updatedAt": "2026-05-08T04:43:08.824Z",
+  "templateId": "classic"
+}
